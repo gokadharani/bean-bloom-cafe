@@ -1,4 +1,5 @@
 {
+  "name": "bean-bloom-cafe",
   "rewrites": [
     {
       "source": "/(.*)",
